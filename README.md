@@ -18,5 +18,3 @@ Currently, I’m on maternity leave, spending time with my 6-month-old daughter,
 
 ![Just to check](https://giraffeconservation.org/wp-content/uploads/2024/11/featured-16-9_topaz-bobby-jo-photography-25-2048x1152.jpg.webp)
 
-## One more try
-## Did it work?
