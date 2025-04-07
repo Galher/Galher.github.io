@@ -3,8 +3,10 @@
 # Wellcome to my website!
 My name is Gal Hermelin, and I’m a Data Analyst.
 
+
 I previously worked as a Data Analyst in the R&D team at Redefine Meat.  
-![Redefinemeat logo](https://raw.githubusercontent.com/Galherm/Galherm.github.io/main/Black_New_Meat-removebg-preview%20(2).png)
+<img src="https://raw.githubusercontent.com/Galherm/Galherm.github.io/main/Black_New_Meat-removebg-preview%20(2).png" alt="Redefinemeat logo" width="200"/>
+
 
 ---
 # Me and Bar:
